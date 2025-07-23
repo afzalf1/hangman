@@ -14,7 +14,7 @@ A console-based Hangman game implemented using object-oriented programming princ
 ## 📁 Project Structure
 
 - `src/`: Source code implementing game logic
-- `words.txt`: Word list with difficulty categories
+- `words_list.txt`: Word list with difficulty categories
 - `uml_and_sequence_diagrams.pdf`: UML class structure of the system and sequence diagram of a function
 
 ## 🛠 Technologies
