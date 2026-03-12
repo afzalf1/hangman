@@ -1,7 +1,7 @@
 ```
 # Hangman Game 🎮
 
-A console-based Hangman game implemented using object-oriented programming principles in [Java/Python/etc.].
+A console-based Hangman game implemented using object-oriented programming principles in Java.
 
 ## ✨ Features
 
